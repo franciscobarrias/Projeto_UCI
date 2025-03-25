@@ -1,0 +1,2 @@
+Frederico Veneza,1985-01-11,1.98,100.0,Médico
+Hugo Almeida,2006-03-18,1.5,70.0,Enfermeiro
